@@ -93,19 +93,16 @@ The dataset includes key attributes that influence car pricing:
 ## 🚀 How to Use  
 
 ### 1️⃣ Clone the Repository  
-bash
-git clone https://github.com/SandipVermaDev/Car-Price-Prediction.git
+```bash
+git clone https://github.com/prerna-patil26/car-price-prediction.git
 cd Car-Price-Prediction
+```
 
 
-### 2️⃣ Install Dependencies
-bash
-pip install -r requirements.txt
-
-
-### 3️⃣ Run the Jupyter Notebook
-bash
+### 2️⃣ Run the Jupyter Notebook
+```bash
 jupyter notebook
+```
 
 Open Car Price Prediction.ipynb and follow the steps inside!
 
